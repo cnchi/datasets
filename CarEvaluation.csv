@@ -1,0 +1,11 @@
+﻿City,Children,Age,Salary,ToBuy
+Taipei,,44,72000,No
+Taichung,0,27,48000,Yes
+Kaohsiung,0,30,54000,No
+Taichung,1,38,61000,No
+Kaohsiung,2,40,,Yes
+Taipei,2,35,58000,Yes
+Taichung,1,,52000,No
+Taipei,2,48,79000,Yes
+Kaohsiung,1,50,83000,No
+Taipei,2,37,67000,Yes
