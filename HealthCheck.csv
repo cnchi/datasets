@@ -1,0 +1,10 @@
+﻿Race,Height_cm,Weight_kg,Over70yr
+White,186,90,Yes
+African,185,98,No
+Asian,175,80,No
+African,170,75,Yes
+Asian,164,,No
+Asian,170,72,Yes
+White,178,75,No
+White,,89,Yes
+African,165,79,Yes

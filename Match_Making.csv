@@ -1,0 +1,13 @@
+﻿ID,Age,Height,Salary,Education,Matching
+ID0001,25,179,75,College,N
+ID0002,33,190,95,College,Y
+ID0003,28,180,90,Master,Y
+ID0004,25,178,90,Master,Y
+ID0005,46,177,500,Master,N
+ID0006,40,170,350,Bachelor,N
+ID0007,34,174,100,Master,Y
+ID0008,36,181,220,Bachelor,N
+ID0009,35,170,125,Master,Y
+ID0010,30,180,175,Bachelor,Y
+ID0011,28,174,150,Bachelor,N
+ID0012,29,176,180,Bachelor,Y
